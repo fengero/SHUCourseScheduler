@@ -25,3 +25,7 @@
 3. 使用 `python SHUCourseScheduler.py`  启动程序
 
 	程序会在程序运行目录下生成ics文件
+
+# 许可证
+
+本项目采用MIT许可证。
